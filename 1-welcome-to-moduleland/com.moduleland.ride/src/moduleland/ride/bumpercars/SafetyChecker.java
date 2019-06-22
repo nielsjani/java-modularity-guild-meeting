@@ -1,4 +1,4 @@
-package main.java.com.moduleland.bumpercars;
+package moduleland.ride.bumpercars;
 
 public class SafetyChecker {
     public static void checkSafety() {

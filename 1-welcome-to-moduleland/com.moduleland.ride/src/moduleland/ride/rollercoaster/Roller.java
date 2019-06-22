@@ -1,6 +1,7 @@
-package main.java.com.moduleland.rollercoaster;
+package moduleland.ride.rollercoaster;
 
-import main.java.com.moduleland.RideInitializer;
+
+import moduleland.ride.RideInitializer;
 
 public class Roller {
     public RideInitializer createRideInitializer() {

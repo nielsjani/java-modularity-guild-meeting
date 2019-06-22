@@ -1,4 +1,4 @@
-package main.java.com.moduleland;
+package moduleland.ride.ticket.api;
 
 public class Ticket {
     private boolean isStamped;

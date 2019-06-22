@@ -1,8 +1,9 @@
-package main.java.com.moduleland.rollercoaster;
+package moduleland.ride.rollercoaster.api;
 
-import main.java.com.moduleland.RideInitializer;
-import main.java.com.moduleland.Ticket;
-import main.java.com.moduleland.TicketStamper;
+import moduleland.ride.RideInitializer;
+import moduleland.ride.rollercoaster.Roller;
+import moduleland.ride.ticket.TicketStamper;
+import moduleland.ride.ticket.api.Ticket;
 
 public class RollerCoaster {
 

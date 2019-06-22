@@ -1,4 +1,4 @@
-package main.java.com.moduleland;
+package moduleland.ride;
 
 public class RideInitializer {
 
