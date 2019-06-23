@@ -1,4 +1,7 @@
+import com.foodstall.api.Foodstall;
+import com.wafflehouse.WaffleHouse;
+
 module wild.west.waffle.house {
-    requires fooditem;
-    exports com.wafflehouse;
+    requires foodstall.api;
+    provides Foodstall with WaffleHouse;
 }

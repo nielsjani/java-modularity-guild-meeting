@@ -1,4 +1,7 @@
+import com.fishyfeast.MoesFishyFeast;
+import com.foodstall.api.Foodstall;
+
 module moes.fishy.feast {
-    requires fooditem;
-    exports com.fishyfeast;
+    requires foodstall.api;
+    provides Foodstall with MoesFishyFeast;
 }
